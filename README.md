@@ -25,10 +25,10 @@ The following **regression models** were implemented and compared:
 
 | Model | Mean Absolute Error (MAE) |
 |--------|----------------------|
-| 🔹 **Linear Regression** |
-| 🌳 **Decision Tree Regressor** |
-| 🌲 **Random Forest Regressor** |
-| 📈 **Support Vector Regressor (SVR)** |
+| 🔹 **Linear Regression** | 389.2865516698178 kW |
+| 🌳 **Decision Tree Regressor** | 331.9375076712652 kW |
+| 🌲 **Random Forest Regressor** | 297.5932548504351 kW |
+| 📈 **Support Vector Regressor (SVR)** | 321.046302630519 kW |
 
 ---
 
